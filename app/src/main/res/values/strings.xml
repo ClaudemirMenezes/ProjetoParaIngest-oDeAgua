@@ -1,0 +1,23 @@
+<resources>
+
+
+    <string name="app_name">Água e Vida</string>
+    <string name="hint_peso"> Seu Peso (Kg)</string>
+    <string name="hint_idade"> Sua Idade</string>
+    <string name="text_button_calcular"> Calcular Ingestão Diária</string>
+    <string name="text_button_lembrete">Lembrate</string>
+    <string name="text_button_alarme">Alarme</string>
+    <string name="text_hora">00</string>
+    <string name="text_dois_pontos">:</string>
+    <string name="text_munitos">00</string>
+    <string name="toast_informe_peso">Informe seu peso</string>
+    <string name="toast_informe_idade">Informe sua idade</string>
+    <string name="dialog_titulo">Redefenir</string>
+    <string name="dialog_desc">Deseja excluir todos dados existentes ? </string>
+    <string name="alarme_mensagem">hora de beber água</string>
+
+
+
+
+
+</resources>
